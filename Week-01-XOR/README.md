@@ -62,6 +62,6 @@ Program 1(b) achieved high classification accuracy and produced predictions corr
 
 ## Files
 
-Program-1A-XOR-Neural-Network.py - Manual neural network implementation using NumPy
-Program-1B-Keras-XOR.py - Neural network implementation using Keras
-screenshots/ - Screenshots of the program outputs
+- Program-1A-XOR-Neural-Network.py - Manual neural network implementation using NumPy
+- Program-1B-Keras-XOR.py - Neural network implementation using Keras
+- screenshots/ - Screenshots of the program outputs
